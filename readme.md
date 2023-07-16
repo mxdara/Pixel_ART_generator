@@ -8,8 +8,6 @@ A pixel art generator that allows users to create and customize grids, draw and 
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
   - [Screen shot](#screen-shot)
 
 ## Features
@@ -43,14 +41,6 @@ A pixel art generator that allows users to create and customize grids, draw and 
 6. Click the "Paint" button to switch back to drawing mode.
 7. Adjust the grid dimensions at any time using the sliders.
 8. Click the "Clear Grid" button to remove all drawings and reset the grid.
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please create a new issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Screen shot
 ![Example Image](/screenShot.jpeg)
